@@ -1,15 +1,15 @@
 {
-   "name": "black_panther-md 4.1.0",
+   "name": "𝙿𝙰𝙽𝙳𝙰 𝙱𝙱𝙷 𝚁𝙾𝙱𝙾𝚃✧☃🍃 4.1.0",
    "version": "1.2.8-beta",
-   "description": "Multi device whatsapp bot by Ibrahim Tech.",
+   "description": "Multi device whatsapp bot by 𝙿𝙰𝙽𝙳𝙰 𝙱𝙱𝙷 ☄💗.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Ibrahim || node lib/smd.js",
-            "start": "pm2 start lib/smd.js --attach --name Ibrahim",
-            "stop": "pm2 stop Ibrahim"
+            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name 𝙿𝙰𝙽𝙳𝙰𝙷❤ || node lib/smd.js",
+            "start": "pm2 start lib/smd.js --attach --name 𝙿𝙰𝙽𝙳𝙰𝙷❤",
+            "stop": "pm2 stop 𝙿𝙰𝙽𝙳𝙰𝙷💗"
    },
-   "author": "Ibrahim Adams",
+   "author": "𝙿𝙰𝙽𝙳𝙰 𝙱𝙱𝙷 ⚫☄",
    "license" :"Apache-2.0",
    "dependencies": { 
              "@adiwajshing/keyed-db": "^0.2.4",
